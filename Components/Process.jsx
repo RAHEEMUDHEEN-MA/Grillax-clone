@@ -139,31 +139,7 @@ function Process() {
         </Col>
       </Row>
 
-      {/* <Row className="firstrow d-flex justify-content-center">
-        <Col
-          md={5}
-          className="d-flex justify-content-center align-items-center"
-        >
-          <div>
-            <h1>CUTTING</h1>
-            <p>
-              Our chicken is meticulously sliced according to our exact
-              specifications, guaranteeing uniformity and precision in every
-              piece. This attention to detail is a crucial part of our
-              commitment to quality at The Grillax
-            </p>
-          </div>
-        </Col>
-        <Col md={5} className="d-flex justify-content-center">
-          <div>
-            <img
-              className="img1"
-              src="https://1g8d8d.n3cdn1.secureserver.net/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-04-at-1.31.06-PM.jpeg?time=1701478336"
-              alt=""
-            />
-          </div>
-        </Col>
-      </Row> */}
+     
      
      <div className="footer">
       <div className="footerbg">
