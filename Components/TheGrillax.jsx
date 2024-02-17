@@ -64,7 +64,7 @@ function TheGrillax() {
           </p>
           <div className="line"></div>
           <p style={{fontSize:"17", fontWeight:"600"}}>
-            We’re indeed a Food Tech company and we’re using lot of technologies
+            We’re indeed a Food Tech company and we are using lot of technologies
             and precession machineries,
           </p>
           <ul style={{fontSize:'15px'}}>
