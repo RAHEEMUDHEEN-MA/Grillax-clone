@@ -162,5 +162,3 @@ function Process() {
 export default Process;
 
 
-// <button></button>
-// <h2>Call Us : +91 <span style={{color:"#ee4c22"}}>81388 71117</span></h2>
