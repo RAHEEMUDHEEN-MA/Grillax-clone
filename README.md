@@ -1,3 +1,9 @@
 #Preview
 
-![Screenshot 2023-12-12 123813](https://github.com/RAHEEMUDHEEN-MA/Grillax/assets/136678042/57366ba2-a25b-4cbd-b30a-b29b7bc60e60)
+
+
+https://github.com/RAHEEMUDHEEN-MA/Grillax/assets/136678042/4897f30c-4da4-46d4-ad27-3aaec3e0c422
+
+
+
+
